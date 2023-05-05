@@ -1,1 +1,7 @@
-body{background-color:#383D58;color: white;}
+body{background-color:#000f64;color: rgb(0, 27, 148);}
+header.alysson {
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    }
